@@ -20,4 +20,4 @@ eureka:
     client:
       serverUrl:
         defaultZone: http://localhost:8761/eureka
-message: "hola de nuevo..."
+message: "hola Cloud Bus..."
